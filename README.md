@@ -1,3 +1,12 @@
+# deeplearning.ai_JupyterNotebooks 
+
+	This Repo is forked by marsggbo.
+
+	I would save all of my own codes here with datasets for review.
+
+---
+Old Readme:
+
 # deeplearning.ai_JupyterNotebooks
 
 该仓库主要存放Coursera上DeepLearning.ai课程的Jupyter Notebook的练习题。
